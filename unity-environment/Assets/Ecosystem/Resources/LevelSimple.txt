@@ -1,0 +1,12 @@
+Lesson:1;
+SheepCount:1;
+WolfCount:0;
+PlantCount:1;
+DummyCount:0;
+PlantRespawn:0;
+Cols:4;
+Rows:4;
+####
+#__#
+#__#
+####;
